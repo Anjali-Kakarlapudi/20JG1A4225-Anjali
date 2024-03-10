@@ -26,8 +26,8 @@ nodemon run start
 10. To modify existing data in the database, change into PATCH and modify the url and click "Send".
 ![image](https://github.com/Anjali-Kakarlapudi/20JG1A4225-Anjali/assets/92771878/333a341a-3b12-44b4-b852-2424fecb9898)
 11. After the data is modified, you will get the following output:
-![image](https://github.com/Anjali-Kakarlapudi/20JG1A4225-
-Anjali/assets/92771878/c6e7a677-26c9-4210-9932-28b58b64b33d)
+![image](https://github.com/Anjali-Kakarlapudi/20JG1A4225-Anjali/assets/92771878/984a8ec5-7eb9-4b48-be76-cc3059779d06)
+
 12. To delete a particular data, change into DELETE, modify the url and click "Send".
 ![image](https://github.com/Anjali-Kakarlapudi/20JG1A4225-Anjali/assets/92771878/a494f040-2a4f-46fa-b65e-814e40afeb04)
 
